@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=foregic&show_icons=true&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=foregic&show_icons=true&count_private=true&theme=radical)
+
 
 <!--
 **foregic/foregic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
