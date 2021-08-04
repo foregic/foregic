@@ -1,11 +1,12 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=foregic&show_icons=true&count_private=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=foregic&repo=NKbookshop)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=foregic&repo=NKbookshop)](https://github.com/foregic)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foregic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foregic&layout=8)](https://github.com/foregic)
 
+[![foregic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=foregic)](https://github.com/foregic)
 
 <!--
 **foregic/foregic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
