@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foregic&layout=8)](https://github.com/foregic)
 
-[![foregic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=foregic)](https://github.com/foregic)
+[![foregic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=foregic&layout=compact)](https://github.com/foregic)
 
 <!--
 **foregic/foregic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
