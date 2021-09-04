@@ -2,7 +2,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=foregic&show_icons=true&count_private=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=foregic&repo=NKbookshop)](https://github.com/foregic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=foregic&repo=myhttp)](https://github.com/foregic)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foregic&layout=8)](https://github.com/foregic)
 
